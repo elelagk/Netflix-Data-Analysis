@@ -6,7 +6,7 @@
 ## Overview
 This project was developed for the **Data Mining Techniques** course at the National and Kapodistrian University of Athens. 
 
-It explores and visualizes Netflix data and implements a **content-based recommendation system** using Python and Jupyter Notebook.
+It explores and visualizes Netflix data and implements a **content-based recommendation system** using Netflix & IMDb data.
 
 ---
 
